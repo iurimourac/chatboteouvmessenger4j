@@ -1,4 +1,4 @@
-package com.github.messenger4j.quickstart.boot;
+package br.gov.cgu.chatboteouvmessenger4j;
 
 import com.github.messenger4j.Messenger;
 import org.springframework.beans.factory.annotation.Value;

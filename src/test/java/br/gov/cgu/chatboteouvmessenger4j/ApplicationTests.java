@@ -1,4 +1,4 @@
-package com.github.messenger4j.quickstart.boot;
+package br.gov.cgu.chatboteouvmessenger4j;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

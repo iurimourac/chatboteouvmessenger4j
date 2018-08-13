@@ -1,4 +1,4 @@
-package com.github.messenger4j.quickstart.boot;
+package br.gov.cgu.chatboteouvmessenger4j;
 
 import static com.github.messenger4j.Messenger.CHALLENGE_REQUEST_PARAM_NAME;
 import static com.github.messenger4j.Messenger.MODE_REQUEST_PARAM_NAME;
